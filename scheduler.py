@@ -9,4 +9,3 @@ import gspread
 from outh2client.service_account import ServiceAccountCredentials
 from dateutil.parser import pasre
 
-s=
